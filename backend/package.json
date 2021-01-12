@@ -1,0 +1,10 @@
+{
+  "name": "intake-index-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "frontend": "1.0.0"
+  }
+}
