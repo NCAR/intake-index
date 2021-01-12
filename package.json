@@ -2,8 +2,8 @@
 
     "workspaces": {
     "packages": [
-        "backend",
-        "frontend",
-        "shared"
+        "intake-index-frontend",
+        "intake-index-backend"
+
     ]
 }}
